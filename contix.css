@@ -1,0 +1,108 @@
+  .container{
+    width: 100%;
+    min-height: 100vh;
+    /* border: 1px solid black; */
+
+}
+.header{
+    background-color: rgb(3, 3, 43);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.type{
+    margin-right: 550px;
+    color: white;
+}
+.click a{
+    margin: 20px;
+    color: white;
+
+}
+.click{
+    color: white;
+}
+.nav{
+    background-color: white;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.icons a{
+    margin: 20px;
+    text-decoration: none;
+}
+.center{
+    height: 500px;
+    background-image: url(images/woman.jpg);
+    background-size: 100% 100%;
+    color: rgb(2, 2, 51);
+    padding-left: 100px; 
+    
+
+}
+h1{
+    font-size: 50px;
+}
+.center button{
+    padding: 20px 20px;
+    color: white;
+    background-color: rgb(2, 2, 39);
+    border-radius: 5px;
+    
+}
+.logo img{
+    height: 90px;
+}
+.next{
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    /* background-color: blue; */
+    margin: auto;
+}
+.end{
+    display: flex;
+    height: 500px;
+    /* background-color: blueviolet; */
+}
+.pic{
+    width: 50%;
+    /* border: 1px solid black; */
+    background-image: url(images/kalvin-krishna-08JB2GY1g8c-unsplash.jpg);
+    background-size: cover;
+}
+.consult{
+    width: 50%;
+    /* border: 1px solid black; */
+    text-align: center;
+    padding: 10px 30px;
+}
+.decorated {
+    text-decoration: underline;
+    text-underline-offset: 20px;
+    text-decoration-thickness: 2px;
+}
+h2{
+    color: rgb(2, 2, 59);
+}
+.consult button{
+    padding: 15px 30px;
+    background-color: rgb(8, 8, 53);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    margin-right: 350px;
+}
+.footer{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(6, 6, 46);
+    text-decoration: underline;
+    text-underline-offset: 20px;
+    text-decoration-thickness: 2px;
+}
+  
+
